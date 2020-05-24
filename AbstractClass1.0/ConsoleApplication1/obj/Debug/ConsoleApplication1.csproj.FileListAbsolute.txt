@@ -1,0 +1,12 @@
+E:\Bangalore Practice\Abstract Class\AbstractClass1.0\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Bangalore Practice\Abstract Class\AbstractClass1.0\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Bangalore Practice\Abstract Class\AbstractClass1.0\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Bangalore Practice\Abstract Class\AbstractClass1.0\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Bangalore Practice\Abstract Class\AbstractClass1.0\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Bangalore Practice\Abstract Class\AbstractClass1.0\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Bangalore Practice\C#\Abstract Class\AbstractClass1.0\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Bangalore Practice\C#\Abstract Class\AbstractClass1.0\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Bangalore Practice\C#\Abstract Class\AbstractClass1.0\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Bangalore Practice\C#\Abstract Class\AbstractClass1.0\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Bangalore Practice\C#\Abstract Class\AbstractClass1.0\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Bangalore Practice\C#\Abstract Class\AbstractClass1.0\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
